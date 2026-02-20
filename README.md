@@ -16,7 +16,6 @@ A C++ based management tool designed to streamline restaurant operations. This p
 -**Order & Billing:** A simple interface to take customer orders and generate instant bills.
 
 #Technologies Used
-
 -**Language:** C++
 
 -**Concepts:** Object-Oriented Logic (Structs), Recursion (Merge Sort), Optimization (Greedy & DP)
